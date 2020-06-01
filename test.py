@@ -1,0 +1,1 @@
+print("/home/about/".split('/'))
